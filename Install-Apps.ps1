@@ -93,6 +93,7 @@ $apps = @(
     @{ Name = 'Blender';           Package = 'blender'      },
     @{ Name = 'TreeSize';           Package = 'treesizefree' },
     @{ Name = 'Spotify';           Package = 'spotify'      }
+    @{ Name = 'VLC Studio';           Package = 'vlc'      }
 
 )
 
