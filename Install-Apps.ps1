@@ -86,12 +86,13 @@ $apps = @(
     @{ Name = 'Azure CLi';           Package = 'azure-cli'      },
     @{ Name = 'ShareX';           Package = 'sharex'      },
     @{ Name = 'FireFox';           Package = 'firefox'      },
-    @{ Name = 'Draw.IO';           Package = 'drawio'      }
-    @{ Name = 'Steam';           Package = 'steam'      }
-    @{ Name = 'NordVPN';           Package = 'nordvpn'      }
-    @{ Name = 'Discord';           Package = 'discord'      }
-    @{ Name = 'Blender';           Package = 'blender'      }
-    @{ Name = 'TreeSize';           Package = 'treesizefree'      }
+    @{ Name = 'Draw.IO';           Package = 'drawio'      },
+    @{ Name = 'Steam';           Package = 'steam'      },
+    @{ Name = 'NordVPN';           Package = 'nordvpn'      },
+    @{ Name = 'Discord';           Package = 'discord'      },
+    @{ Name = 'Blender';           Package = 'blender'      },
+    @{ Name = 'TreeSize';           Package = 'treesizefree' },     }
+    @{ Name = 'Spotify';           Package = 'spotify'      }
 
 )
 
