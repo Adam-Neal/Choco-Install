@@ -91,7 +91,7 @@ $apps = @(
     @{ Name = 'NordVPN';           Package = 'nordvpn'      },
     @{ Name = 'Discord';           Package = 'discord'      },
     @{ Name = 'Blender';           Package = 'blender'      },
-    @{ Name = 'TreeSize';           Package = 'treesizefree' },     }
+    @{ Name = 'TreeSize';           Package = 'treesizefree' },
     @{ Name = 'Spotify';           Package = 'spotify'      }
 
 )
