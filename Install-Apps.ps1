@@ -92,8 +92,13 @@ $apps = @(
     @{ Name = 'Discord';           Package = 'discord'      },
     @{ Name = 'Blender';           Package = 'blender'      },
     @{ Name = 'TreeSize';           Package = 'treesizefree' },
-    @{ Name = 'Spotify';           Package = 'spotify'      }
-    @{ Name = 'VLC Studio';           Package = 'vlc'      }
+    @{ Name = 'Spotify';           Package = 'spotify'      },
+    @{ Name = 'VLC Studio';           Package = 'vlc'      },
+    @{ Name = 'Gimp';           Package = 'gimp'      },
+    @{ Name = 'Audacity';           Package = 'audacity'      },
+    @{ Name = 'OBS Studio';           Package = 'obs-studio.install'      },
+    @{ Name = 'qBitTorrent';           Package = 'qbittorrent'      },
+    @{ Name = 'File Converter';           Package = 'file-converter'      }
 
 )
 
